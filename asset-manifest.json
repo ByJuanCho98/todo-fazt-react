@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.38be36b0.css",
-    "main.js": "/static/js/main.ebfbbc09.js",
-    "index.html": "/index.html",
-    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
-    "main.ebfbbc09.js.map": "/static/js/main.ebfbbc09.js.map"
+    "main.css": "/todo-fazt-react/static/css/main.38be36b0.css",
+    "main.js": "/todo-fazt-react/static/js/main.ebfbbc09.js",
+    "index.html": "/todo-fazt-react/index.html",
+    "main.38be36b0.css.map": "/todo-fazt-react/static/css/main.38be36b0.css.map",
+    "main.ebfbbc09.js.map": "/todo-fazt-react/static/js/main.ebfbbc09.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
